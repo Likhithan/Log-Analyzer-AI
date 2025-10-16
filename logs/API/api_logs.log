@@ -1,0 +1,8 @@
+2025-10-15 19:00:01 [INFO] API request received: GET /employee/EMP3456
+2025-10-16 19:00:02 [INFO] Response time: 220ms
+2025-10-15 19:00:05 [WARN] API latency above threshold: 800ms
+2025-10-16 19:00:10 [ERROR] API authentication failed for user=hr_temp
+2025-10-16 19:00:15 [INFO] API request received: POST /salary/update
+2025-10-16 19:00:18 [ERROR] HTTP 500 - Salary update service unavailable
+2025-10-15 19:00:22 [INFO] Retrying API call...
+2025-10-16 19:00:25 [INFO] API call succeeded on retry.

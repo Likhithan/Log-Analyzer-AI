@@ -1,0 +1,8 @@
+2025-10-15 20:00:00 [INFO] CTM job check started for PayrollBatch.
+2025-10-15 20:00:03 [ERROR] Control-M job PAYROLL_01 failed: Exit code 255
+2025-10-15 20:00:05 [WARN] Job PAYROLL_02 delayed by 3 minutes.
+2025-10-15 20:00:08 [INFO] Disk usage: 85% on /mnt/data
+2025-10-15 20:00:12 [ERROR] Disk usage threshold breached: 92% on /mnt/data
+2025-10-15 20:00:15 [INFO] Notification sent to DevOps channel.
+2025-10-15 20:00:18 [INFO] Auto cleanup triggered for /tmp directory.
+2025-10-15 20:00:20 [INFO] Cleanup completed successfully.
