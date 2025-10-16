@@ -5,6 +5,11 @@ A Python + Streamlit based tool to analyze and visualize application logs effici
 
 ---
 
+### Project Description
+
+A Python + Streamlit based tool to analyze and visualize application logs efficiently, similar to Splunk dashboards. Supports API, ETL, and Scheduler logs with interactive filters and dashboards.
+
+
 ### Project Structure
 
 AI_Log_Analyzer/
