@@ -51,6 +51,12 @@ AI_Log_Analyzer/
 pip install -r req.txt
 streamlit run main.py
 
+### Demo
+
+Watch the interactivity in action:
+
+![Log_Analyzer_AI Demo](screenshots/Log Anayazer -AI Recording.mp4)
+
 
 Author:
 
